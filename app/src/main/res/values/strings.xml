@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe+</string>
+    <string-array name="board_sizes">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+</resources>
